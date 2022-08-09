@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @alirezaplus877
-- 👀 I’m interested in 
+- 👋 Hi, I’m @alireza 
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning .net core & microservice
 - 💞️ I’m looking to collaborate on developer 
 - 📫 How to reach me linkedin.com/in/alireza-mashali-01b649129
